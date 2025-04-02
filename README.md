@@ -1,4 +1,5 @@
 ## Hi there 👋
+- [정보처리기사 필기요약](./정보처리기사.md)
 
 <!--
 **qoxodn/qoxodn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
